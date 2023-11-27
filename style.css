@@ -1,0 +1,10 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.btn:hover{
+    background: linear-gradient(rgb(0, 255, 255), rgb(0, 255, 21));
+    color: black;
+    font-weight: bolder;
+}
